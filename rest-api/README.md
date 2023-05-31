@@ -2,10 +2,10 @@
 
 ## Use the following build config when creating this component in Choreo:
 
-- Dockerfile: `java/rest-api/Dockerfile`
-- Docker context: `java/rest-api/`
+- Dockerfile: `java-rest-api/rest-api/Dockerfile`
+- Docker context: `java-reat-api/rest-api/`
 - Port: `8080` 
-- OpenAPI filepath: `java/rest-api/openapi.yaml`
+- OpenAPI filepath: `java-rest-api/rest-api/openapi.yaml`
 
 
 ## Use the following command to build and run the application locally.
